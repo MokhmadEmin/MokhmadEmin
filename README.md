@@ -18,4 +18,5 @@ I've been in IT since 2022.
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![Arch](https://img.shields.io/badge/-Arch-090909?style=for-the-badge&logo=archlinux)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)
