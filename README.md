@@ -1,6 +1,7 @@
 # Hi there 👋
 My name is MokhmadEmin, and my hobbie is programming.  
-I am a fullstack developer.
+I am a fullstack developer.  
+I've been in IT since 2022.
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
