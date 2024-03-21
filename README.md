@@ -10,4 +10,3 @@ I am a fullstack developer.
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
-![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=ukulele)
