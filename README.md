@@ -14,7 +14,6 @@ I've been in IT since 2022.
 ### Plans:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust&logoColor=FF4500)
-![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![Arch](https://img.shields.io/badge/-Arch-090909?style=for-the-badge&logo=archlinux)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
