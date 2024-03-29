@@ -20,6 +20,6 @@ I've been in IT since 2022.
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker
 )
-![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)
-![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)  
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)  
+![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![Arch](https://img.shields.io/badge/-Arch-090909?style=for-the-badge&logo=archlinux)
