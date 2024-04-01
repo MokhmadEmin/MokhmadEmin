@@ -18,6 +18,7 @@ I've been in IT since 2022.
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust&logoColor=FF4500)
 ![Tauri](https://img.shields.io/badge/-Tauri-090909?style=for-the-badge&logo=tauri)
 ![Actix](https://img.shields.io/badge/-Actix-090909?style=for-the-badge&logo=actix)
+![Bevy](https://img.shields.io/badge/-Bevy-090909?style=for-the-badge&logo=bevy)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker
 )
