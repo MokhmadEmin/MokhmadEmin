@@ -13,7 +13,6 @@ I've been in IT since 2022.
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ### Plans:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
-![ReactTS](https://img.shields.io/badge/-ReactTS-090909?style=for-the-badge&logo=tsx)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=svelte)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust&logoColor=FF4500)
