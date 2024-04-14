@@ -12,15 +12,15 @@ I've been in IT since 2022.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=66b2ff)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ### Plans:
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Svelte](https://img.shields.io/badge/-Svelte-090909?style=for-the-badge&logo=svelte)
-![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![Rust](https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust&logoColor=FF4500)
 ![Tauri](https://img.shields.io/badge/-Tauri-090909?style=for-the-badge&logo=tauri)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker
 )
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)
