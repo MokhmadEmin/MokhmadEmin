@@ -11,7 +11,6 @@ I've been in IT since 2022.
 ![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=66b2ff)
