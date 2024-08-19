@@ -24,7 +24,7 @@ I've been in IT since 2022.
 )
 ### Plans:
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)
-![Kubernetis](https://img.shields.io/badge/-Kubernetis-090909?style=for-the-badge&logo=kubernetis)
+![Kubernetis](https://img.shields.io/badge/-Kubernetis-090909?style=for-the-badge&logo=k8s)
 ![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)    
 and more DevOps.
