@@ -23,7 +23,7 @@ I've been in IT since 2022.
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker
 )
 ### Plans:
-![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=00FF00)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009900)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-090909?style=for-the-badge&logo=kubernetes)
 ![AI](https://img.shields.io/badge/-AI-090909?style=for-the-badge&logo=tensorflow)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c)    
