@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 My name is MokhmadEmin, and my hobbie is programming.  
 I am a fullstack developer.  
 I've been in IT since 2022.
