@@ -21,7 +21,7 @@ I've been in IT since 2022.
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)
-![Telegram Chatbots](https://img.shields.io/badge/-Telegram Chatbots-090909?style=for-the-badge&logo=telegram)
+![Telegram Chatbots](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 
 ### Plans:
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logoColor=009900)
